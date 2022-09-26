@@ -1,0 +1,72 @@
+E:\dFRP\GameControl REPO\Client\bin\Debug\Client.net.dll
+E:\dFRP\GameControl REPO\Client\bin\Debug\Client.net.pdb
+E:\dFRP\GameControl REPO\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\dFRP\GameControl REPO\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\dFRP\GameControl REPO\Client\obj\Debug\Client.net.dll
+E:\dFRP\GameControl REPO\Client\obj\Debug\Client.net.pdb
+E:\dFRP\GameControl REPO\Client\bin\Debug\CitizenFX.Core.Client.dll
+E:\dFRP\GameControl REPO\Client\bin\Debug\CitizenFX.Core.Client.xml
+E:\dFRP\GameControl REPO\Client\obj\Debug\Client.csproj.CopyComplete
+E:\dFRP\GameControl REPO\Client\bin\Debug\Server.net.dll
+E:\dFRP\GameControl REPO\Client\bin\Debug\CitizenFX.Core.Server.dll
+E:\dFRP\GameControl REPO\Client\bin\Debug\Server.net.pdb
+E:\dFRP\GameControl REPO\Client\bin\Debug\CitizenFX.Core.Server.xml
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\Client.net.dll
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\Client.net.pdb
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\CitizenFX.Core.Client.dll
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\Server.net.dll
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\CitizenFX.Core.Server.dll
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\Server.net.pdb
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\CitizenFX.Core.Client.xml
+E:\dFRP\GameControl - SOURCE\Client\bin\Debug\CitizenFX.Core.Server.xml
+E:\dFRP\GameControl - SOURCE\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\dFRP\GameControl - SOURCE\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\dFRP\GameControl - SOURCE\Client\obj\Debug\Client.csproj.CopyComplete
+E:\dFRP\GameControl - SOURCE\Client\obj\Debug\Client.net.dll
+E:\dFRP\GameControl - SOURCE\Client\obj\Debug\Client.net.pdb
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\Client.net.dll
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\Client.net.pdb
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Client.dll
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\Server.net.dll
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Server.dll
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\Server.net.pdb
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Client.xml
+E:\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Server.xml
+E:\dFRP\source\GameControl - Source\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\dFRP\source\GameControl - Source\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\dFRP\source\GameControl - Source\Client\obj\Debug\Client.csproj.CopyComplete
+E:\dFRP\source\GameControl - Source\Client\obj\Debug\Client.net.dll
+E:\dFRP\source\GameControl - Source\Client\obj\Debug\Client.net.pdb
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\Client.net.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\Client.net.pdb
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\Server.net.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Server.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\Server.net.pdb
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Client.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\Debug\CitizenFX.Core.Server.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\FiveM\dFRP\source\GameControl - Source\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\FiveM\dFRP\source\GameControl - Source\Client\obj\Debug\Client.csproj.CopyComplete
+D:\FiveM\dFRP\source\GameControl - Source\Client\obj\Debug\Client.net.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\obj\Debug\Client.net.pdb
+D:\FiveM\dFRP\cfx-server-data-master\resources\GameControl\Client.net.dll
+D:\FiveM\dFRP\cfx-server-data-master\resources\GameControl\Client.net.pdb
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\CitizenFX.Core.Client.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\MySqlConnector.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Threading.Tasks.Extensions.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Memory.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Data.Common.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Buffers.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\netstandard.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Numerics.Vectors.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\MySqlConnector.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Threading.Tasks.Extensions.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Memory.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Buffers.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Numerics.Vectors.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\NativeUI.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\ScaleformUI.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\Newtonsoft.Json.dll
+D:\FiveM\dFRP\source\GameControl - Source\Client\bin\debug\Newtonsoft.Json.xml

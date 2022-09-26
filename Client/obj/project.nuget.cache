@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QO8IyaHL+L55uCZV0b4Ft7GAGb/GOSPx/j+W8WGXqehqwLEg3CNEeuHbBg6Kg29C1yomiDZr38S076t6nrGZ4A==",
+  "success": true,
+  "projectFilePath": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JohnI\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

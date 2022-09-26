@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Client\\Client.csproj": {}
+  },
+  "projects": {
+    "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\JohnI\\.nuget\\packages\\",
+        "outputPath": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\JohnI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Server\\Server.csproj": {
+                "projectPath": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Server\\Server.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\JohnI\\.nuget\\packages\\",
+        "outputPath": "D:\\FiveM\\dFRP\\source\\GameControl - Source\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\JohnI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[12.0.2, )",
+              "generatePathProperty": true
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
